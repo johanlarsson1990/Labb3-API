@@ -1,0 +1,10 @@
+C:\Users\johan\source\repos\Labb3\Labb3Models\bin\Debug\netcoreapp3.1\Labb3Models.deps.json
+C:\Users\johan\source\repos\Labb3\Labb3Models\bin\Debug\netcoreapp3.1\Labb3Models.dll
+C:\Users\johan\source\repos\Labb3\Labb3Models\bin\Debug\netcoreapp3.1\Labb3Models.pdb
+C:\Users\johan\source\repos\Labb3\Labb3Models\obj\Debug\netcoreapp3.1\Labb3Models.csproj.AssemblyReference.cache
+C:\Users\johan\source\repos\Labb3\Labb3Models\obj\Debug\netcoreapp3.1\Labb3Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\source\repos\Labb3\Labb3Models\obj\Debug\netcoreapp3.1\Labb3Models.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\Labb3\Labb3Models\obj\Debug\netcoreapp3.1\Labb3Models.AssemblyInfo.cs
+C:\Users\johan\source\repos\Labb3\Labb3Models\obj\Debug\netcoreapp3.1\Labb3Models.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\Labb3\Labb3Models\obj\Debug\netcoreapp3.1\Labb3Models.dll
+C:\Users\johan\source\repos\Labb3\Labb3Models\obj\Debug\netcoreapp3.1\Labb3Models.pdb
